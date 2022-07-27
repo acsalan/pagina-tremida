@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+
+.shake{
+    text-align: center;
+}
+
+.shake-crazy{
+    text-align: center;
+}
+
+.container {
+    margin-left: 20px;
+    
+}
+
+.vistacreate img {
+    display: flex;
+    align-items: center;
+    height:100%;
+    width:100%;
+    background-image: url(/img/PRECISANDO\ DE\ _CULOS__logo.png);
+}
+
+footer{
+ text-align: center;    
+}
+
